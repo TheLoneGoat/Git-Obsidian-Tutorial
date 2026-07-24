@@ -27,5 +27,22 @@ Then verify using "git remote -v"
 Should see something like mine below git remote -v
 
 Now make your first commit using these two lines:
+
+```
 git add .
 git commit -m "Initial commit"
+```
+
+Finally, upload everything!
+
+```
+git push -u origin main
+```
+
+Check if everything is correct.
+
+```
+git status
+```
+
+You should be fine, if there is something red, try committing again and pushing!
