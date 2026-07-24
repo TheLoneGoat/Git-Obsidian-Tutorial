@@ -4,7 +4,7 @@ On the new laptop, install git bash.
 
 You should also sign into Github!
 
-Go to the directory where you want the new vault to be located!
+Go to the directory where you want the new vault to be located! It should be empty!
 Ex: C:\Users\user\Documents\Obsidian Vaults\
 
 Open git bash and clone using the HTTPS Url inside the directory
