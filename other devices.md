@@ -4,12 +4,15 @@ On a different laptop, install git bash and [[Setting up Obsidian-Git]].
 
 You should also sign into Github!
 
-Go to the directory where the new vault is located
-Ex: C:\Users\user\Documents\Obsidian Vaults\test
+Go to the directory where you want the new vault to be located!
+Ex: C:\Users\user\Documents\Obsidian Vaults\
 
-Open git bash and clone using the HTTPS Url
+Open git bash and clone using the HTTPS Url inside the directory
 ```
 git clone https://github.com/TheLoneGoat/Git-Obsidian-Tutorial
 ```
-![[Pasted image 20260724003349.png]]
-Enjoy!
+
+Then open obsidian and select open folder as vault!
+![[Pasted image 20260724004536.png]]
+
+

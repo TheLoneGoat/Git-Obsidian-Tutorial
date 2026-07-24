@@ -37,6 +37,8 @@ Finally, upload everything!
 ```
 git push -u origin main
 ```
+note, if you get this error ```error: src refspec main does not match any```
+Then change main to master ```git push -u origin master```
 
 Check if everything is correct.
 

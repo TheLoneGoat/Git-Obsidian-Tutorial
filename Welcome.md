@@ -25,3 +25,5 @@ git commit
 git push
 ```
 and voila!
+
+For future use, like on phone, you will need  a Personal access token. Things can get finicky, but i recommend using an online guide!
