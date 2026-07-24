@@ -1,7 +1,6 @@
-Go to this link https://git-scm.com/install/windows, and download the required file!
+
 
 This page will also help you use Git bash. 
-Comeback when welcome page tells you to!
 
 Now we **Initialize a Repository in Obsidian**
 
@@ -46,3 +45,17 @@ git status
 ```
 
 You should be fine, if there is something red, try committing again and pushing!
+
+```
+git commit -a
+```
+
+If in a new text editor, just type a new message, then press **Esc** and type ==*:wq*==
+
+Then use the git push command
+
+```
+git push -u origin main
+```
+
+Now that you pushed the first ever commit, you jsut have to remember to use git commit and push using obsidians built in command line!
