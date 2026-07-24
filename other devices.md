@@ -1,6 +1,6 @@
 After finally getting past the hard parts, things can finally simmer down.
 
-On a different laptop, install git bash and [[Setting up Obsidian-Git]].
+On the new laptop, install git bash.
 
 You should also sign into Github!
 
@@ -15,4 +15,10 @@ git clone https://github.com/TheLoneGoat/Git-Obsidian-Tutorial
 Then open obsidian and select open folder as vault!
 ![[Pasted image 20260724004536.png]]
 
+Finally,  [[Setting up Obsidian-Git]].
 
+and then use 
+```
+git pull
+```
+using obsidian command line!
