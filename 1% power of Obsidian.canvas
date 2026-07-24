@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"897ef512f2cacae1","x":-1475,"y":-1360,"width":775,"height":751,"type":"file","file":"Git Bash.md"},
+		{"id":"4552a52e3a2bf885","x":-2640,"y":-1360,"width":1126,"height":751,"type":"file","file":"Welcome.md"},
+		{"id":"4ebf759cf671cf5f","type":"file","file":"Setting up Obsidian-Git.md","x":-2640,"y":-520,"width":1240,"height":680},
+		{"id":"ef2403e557fe0694","type":"file","file":"Some issues you may have.md","x":-684,"y":-1360,"width":844,"height":751},
+		{"id":"6e2a487de9aefd36","x":-2640,"y":240,"width":1240,"height":720,"type":"file","file":"Initialize a Repository in Obsidian.md"},
+		{"id":"6ac95fa880c5dbd2","x":-1287,"y":240,"width":1367,"height":720,"type":"file","file":"other devices.md"},
+		{"id":"856913b3c129d120","x":-1287,"y":-520,"width":1367,"height":680,"type":"file","file":"Create a Repository.md"}
+	],
+	"edges":[]
+}

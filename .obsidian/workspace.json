@@ -53,14 +53,17 @@
             "id": "25145576b4126f55",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
+                "file": "1% power of Obsidian.canvas",
+                "viewState": {
+                  "x": -951.866428802002,
+                  "y": -829.2665604802626,
+                  "zoom": -1.4195671577593578
+                }
               },
-              "icon": "lucide-file",
-              "title": "Welcome"
+              "icon": "lucide-layout-dashboard",
+              "title": "1% power of Obsidian"
             }
           },
           {
@@ -74,7 +77,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -248,16 +251,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25145576b4126f55",
+  "active": "903334389dcae78a",
   "lastOpenFiles": [
+    "1% power of Obsidian.canvas",
+    "Create a Repository.md",
+    "Initialize a Repository in Obsidian.md",
+    "Setting up Obsidian-Git.md",
     "Some issues you may have.md",
     "Welcome.md",
     "Git Bash.md",
-    "Initialize a Repository in Obsidian.md",
-    "Pasted image 20260724010326.png",
-    "Setting up Obsidian-Git.md",
     "other devices.md",
-    "Create a Repository.md",
+    "Pics/Pasted image 20260724010326.png",
     "Pics/Pasted image 20260724004536.png",
     "Pasted image 20260724004158.png",
     "Pasted image 20260724004158 1.png",
@@ -265,7 +269,6 @@
     "Pics/Pasted image 20260723235408.png",
     "Pics/Pasted image 20260723235129.png",
     "Pics/Pasted image 20260723234728.png",
-    "Untitled.canvas",
     "Untitled 1.canvas",
     "2026-07-23.md",
     "Pics/Pasted image 20260723232538.png",
