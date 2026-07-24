@@ -1,11 +1,11 @@
 Hello! This will help you set up Obsidian git, and help you navigate through github.
 
-**2** install [[Git Bash]]
+**1** install [[Git Bash]]
 
 	Once you finished, take note of where you kept your directory
 Ex:  C:\Users\user\Documents\Obsidian Vaults\Git-Obsidian
 
-**1**  [[Setting up Obsidian-Git]] 
+**2**  [[Setting up Obsidian-Git]] 
 
 **3** Go to your Github and [[Create a Repository]]
 
