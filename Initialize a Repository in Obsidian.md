@@ -58,4 +58,4 @@ Then use the git push command
 git push -u origin main
 ```
 
-Now that you pushed the first ever commit, you jsut have to remember to use git commit and push using obsidians built in command line!
+Now that you pushed the first ever commit, you jsut have to remember to use git commit and push using obsidians built in command line! You can also configure git directly through the plugin.
