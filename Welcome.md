@@ -1,17 +1,17 @@
 Hello! This will help you set up Obsidian git, and help you navigate through github.
 
-**First** go to https://git-scm.com/install/windows
+**2** install [[Git Bash]]
 
 	Once you finished, take note of where you kept your directory
 Ex:  C:\Users\user\Documents\Obsidian Vaults\Git-Obsidian
 
-**Secondly**  [[Setting up Obsidian-Git]] 
+**1**  [[Setting up Obsidian-Git]] 
 
-**Thirdly** Go to your Github and [[Create a Repository]]
+**3** Go to your Github and [[Create a Repository]]
 
-After creating the repository, we have to [[Initialize a Repository in Obsidian]]
+**4** After creating the repository, we have to [[Initialize a Repository in Obsidian]]
 
-Finally you want to use your notes on [[other devices]].
+**5** Finally you want to use your notes on [[other devices]].
 
 Remember, everytime you open up your notes, use
 ```
@@ -27,3 +27,16 @@ git push
 and voila!
 
 For future use, like on phone, you will need  a Personal access token. Things can get finicky, but i recommend using an online guide!
+
+**6** Although there may be [[Some issues you may have]]
+
+Use this table for to your advantage!
+
+| Want                    | Command       |
+| ----------------------- | ------------- |
+| Check Changes           | git status    |
+| Download updates        | git pull      |
+| Save changes            | git commit    |
+| upload changes          | git push      |
+| See my branch           | git branch    |
+| Check Github Connection | git remote -v |
