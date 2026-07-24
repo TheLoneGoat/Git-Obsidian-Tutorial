@@ -11,5 +11,5 @@ Open git bash and clone using the HTTPS Url
 ```
 git clone https://github.com/TheLoneGoat/Git-Obsidian-Tutorial
 ```
-
+![[Pasted image 20260724003349.png]]
 Enjoy!
